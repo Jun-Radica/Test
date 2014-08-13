@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 This is the Fourth
-=======
-This is the Second
->>>>>>> parent of 6e411a4... Third
