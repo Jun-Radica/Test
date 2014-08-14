@@ -1,2 +1,8 @@
 This is the Eight
+<<<<<<< HEAD
 
+=======
+a.First
+b.
+c.
+>>>>>>> origin/Branches_t
