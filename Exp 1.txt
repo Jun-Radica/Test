@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the Seven
+=======
+This is the Eight
+>>>>>>> origin/master
